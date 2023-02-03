@@ -1,0 +1,27 @@
+.item{
+    font-size:24px;
+    color:darkgreen;    
+}
+li{
+    margin:20px;    
+}
+#itembullets{
+    list-style:none;
+    border:3px solid black;
+    margin-left: 25cm;
+}
+#title{
+    color:green;
+    text-align:center;
+
+
+}
+body{
+    background-image:url("https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg");
+    border:5px solid darkgreen;
+    background-size:cover;
+}
+#picture{
+    width:32px;
+    height:32px;
+}
