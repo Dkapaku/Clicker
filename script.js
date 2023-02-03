@@ -16,4 +16,4 @@ let ionianBootCount = 0;
 // when the button is clicked ??? check the count vs cost, in enough, decrease total, change price, 
 //keep track of how many of item owned/ how much its going up
 let item1Element = document.getElementById("item1cost")
-let 
+let blah blah blah
